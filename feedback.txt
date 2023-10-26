@@ -1,0 +1,7 @@
+Avigdor Partouche: A gladiator game with pygame
+Your project is amazing! Not only is the game fun and well-designed, but your code is also simple to follow despite its complexity. 
+This means you did a really good job!
+The only thing I would suggest you consider as a bonus is to make it even better by dividing the class Game into other inherited classes like Settings, Moves, etc. 
+This is because the main.py file is quite long, which makes it complicated to follow.
+I am so happy that you used all the concepts we've learned in class with such mastery!
+
